@@ -1,0 +1,5 @@
+Credentials cache: API:FE35B1B2-A8F5-48CF-A596-29DE030CCF12
+        Principal: jacher@42.FR
+
+  Issued                Expires               Principal
+Sep  7 10:38:31 2020  Sep 14 10:38:31 2020  krbtgt/42.FR@42.FR
